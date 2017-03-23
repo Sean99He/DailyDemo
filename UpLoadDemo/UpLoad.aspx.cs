@@ -22,10 +22,6 @@ namespace UpLoadDemo
                 string fileNameUpload = FileUpload1.FileName;
                 if (fileName == fileNameUpload)
                 {
-
-                    var a = Server.MapPath("");
-                    var b = Server.MapPath(@"./");
-                    var c = Server.MapPath(@"~/");
                     string path = Server.MapPath(@"~\UpFiles\ServiceRoute\pdf\" + fileName);
                     FileUpload1.SaveAs(path);
                 }                    
