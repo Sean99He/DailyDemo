@@ -63,3 +63,4 @@ E:\DailyDemo\UpLoadDemo\bin\Microsoft.ApplicationInsights.xml
 E:\DailyDemo\UpLoadDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 E:\DailyDemo\UpLoadDemo\obj\Debug\UpLoadDemo.dll
 E:\DailyDemo\UpLoadDemo\obj\Debug\UpLoadDemo.pdb
+E:\DailyDemo\UpLoadDemo\obj\Debug\UpLoadDemo.csprojResolveAssemblyReference.cache

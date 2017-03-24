@@ -79,3 +79,4 @@ E:\DailyDemo\MVCDemo\bin\Microsoft.Owin.Security.Twitter.xml
 E:\DailyDemo\MVCDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\DailyDemo\MVCDemo\obj\Debug\MVCDemo.dll
 E:\DailyDemo\MVCDemo\obj\Debug\MVCDemo.pdb
+E:\DailyDemo\MVCDemo\obj\Debug\MVCDemo.csprojResolveAssemblyReference.cache
