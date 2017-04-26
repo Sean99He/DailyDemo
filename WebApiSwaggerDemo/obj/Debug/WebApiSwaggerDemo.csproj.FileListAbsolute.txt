@@ -145,3 +145,4 @@ E:\DailyDemo\WebApiSwaggerDemo\bin\System.Web.Http.Owin.xml
 E:\DailyDemo\WebApiSwaggerDemo\obj\Debug\WebApiSwaggerDemo.csprojResolveAssemblyReference.cache
 E:\DailyDemo\WebApiSwaggerDemo\obj\Debug\WebApiSwaggerDemo.dll
 E:\DailyDemo\WebApiSwaggerDemo\obj\Debug\WebApiSwaggerDemo.pdb
+E:\DailyDemo\WebApiSwaggerDemo\bin\WebApiSwaggerDemo.XML

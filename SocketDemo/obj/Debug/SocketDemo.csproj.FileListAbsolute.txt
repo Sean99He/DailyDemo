@@ -1,0 +1,9 @@
+E:\DailyDemo\SocketDemo\bin\Debug\SocketDemo.exe.config
+E:\DailyDemo\SocketDemo\bin\Debug\SocketDemo.exe
+E:\DailyDemo\SocketDemo\bin\Debug\SocketDemo.pdb
+E:\DailyDemo\SocketDemo\obj\Debug\SocketDemo.csprojResolveAssemblyReference.cache
+E:\DailyDemo\SocketDemo\obj\Debug\SocketDemo.Form1.resources
+E:\DailyDemo\SocketDemo\obj\Debug\SocketDemo.Properties.Resources.resources
+E:\DailyDemo\SocketDemo\obj\Debug\SocketDemo.csproj.GenerateResource.Cache
+E:\DailyDemo\SocketDemo\obj\Debug\SocketDemo.exe
+E:\DailyDemo\SocketDemo\obj\Debug\SocketDemo.pdb

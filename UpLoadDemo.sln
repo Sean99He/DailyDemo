@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCDemo", "MVCDemo\MVCDemo.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSwaggerDemo", "WebApiSwaggerDemo\WebApiSwaggerDemo.csproj", "{EE5F00CB-B445-46B2-BFF7-D89DC41A597F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketDemo", "SocketDemo\SocketDemo.csproj", "{A47E4F76-DBD8-41C6-84A9-002C42834167}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EE5F00CB-B445-46B2-BFF7-D89DC41A597F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE5F00CB-B445-46B2-BFF7-D89DC41A597F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE5F00CB-B445-46B2-BFF7-D89DC41A597F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A47E4F76-DBD8-41C6-84A9-002C42834167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47E4F76-DBD8-41C6-84A9-002C42834167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47E4F76-DBD8-41C6-84A9-002C42834167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47E4F76-DBD8-41C6-84A9-002C42834167}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

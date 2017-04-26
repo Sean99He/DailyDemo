@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<input type="button" value="zhangsan" id="zhangsan" />
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script>
+    $("#zhangsan").bind("click", function () {
+        var sq = ({ "Success": true, "Message": "111", "Data": "" });
+        var a = eval(sq);
+        alert(a.Success);
+    });
+</script>
